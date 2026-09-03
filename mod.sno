@@ -1,0 +1,10 @@
+module github.com/supernovalang/snova-strings https://github.com/supernovalang/snova-strings
+
+snova "1.0.0"
+
+dependencies(
+    direct = [
+    ],
+    indirect = [
+    ]
+)
